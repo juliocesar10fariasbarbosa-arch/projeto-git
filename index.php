@@ -11,6 +11,11 @@
  <ul>
  <li>Nome do integrante A</li>
  <li>Nome do integrante B</li>
+ <h2>Sobre o projeto</h2>
+<p>
+ Este projeto demonstra o desenvolvimento colaborativo
+ utilizando Git e GitHub.
+</p>
  </ul>
 </body>
 </html>
